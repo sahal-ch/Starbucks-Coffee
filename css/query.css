@@ -125,6 +125,10 @@
     padding: 1rem 2rem;
   }
 
+  .logo-svg {
+    width: 6rem;
+  }
+
   .hamburger {
     margin-top: 3rem;
   }
