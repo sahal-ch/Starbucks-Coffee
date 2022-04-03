@@ -435,10 +435,6 @@ main {
   padding: 3rem;
 }
 
-.dropdown:hover {
-  background-color: rgba(119, 119, 119, 0.1);
-}
-
 /* Social-links */
 
 .social-links-noboot {
@@ -479,7 +475,7 @@ main {
 .footer-terms a:link,
 .footer-terms a:visited {
   border-bottom: 1px solid transparent;
-  transition: all 0.3s;
+  transition: all 0.4s;
   color: #000;
 }
 
